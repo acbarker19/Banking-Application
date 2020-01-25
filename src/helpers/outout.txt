@@ -1,0 +1,16 @@
+Sam Miller 112.12 smiller miller true
+John Smith 100.57 jsmith smith false
+Allison Marks 100.57 amarks marks false
+Johnny Rowe 100.57 jrowe rowe false
+Brian Rowe 100.57 browe rowe false
+David Tillerson 100.57 dtillerson tillerson false
+Bill Crumb 10000.57 bcrumb crumb false
+John Walker 100.57 jwalker walker false
+Vivian Aguayo 100.57 vaguayo aguayo false
+Kevin Wills 100.57 kwills wills false
+Josh Gonzalez 100.57 jgonzalez gonzalez false
+Patricia Wilson 100.57 pwilson wilson false
+Carter Posey 100.57 cposey posey false
+Thomas Burnette 100.57 tburnette burnette false
+Will Turner 100.57 wturner turner false
+Michaela George 100.57 mgeorge george false

@@ -1,0 +1,16 @@
+Admin Admin 0.0 admin admin true
+John Smith 340.8 jsmith smith false
+Allison Marks 110.0 amarks marks false
+Johnny Rowe 221.5 jrowe rowe false
+Brian Rowe 60.56 browe rowe false
+David Tillerson 115.73 dtillerson tillerson false
+Bill Crumb 100.42 bcrumb crumb false
+John Walker 231.9 jwalker walker false
+Vivian Aguayo 143.13 vaguayo aguayo false
+Kevin Wills 42.07 kwills wills false
+Josh Gonzalez 221.12 jgonzalez gonzalez false
+Patricia Wilson 257.57 pwilson wilson false
+Carter Posey 110.86 cposey posey false
+Thomas Burn 99.34 tburnette burnette false
+Will Turner 109.75 wturner turner false
+Sarah George 154.57 sgeorge george false
