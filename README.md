@@ -1,5 +1,5 @@
 # Banking Application
-A simple banking application project from my second programming class, Programming and Problem Solving II, at the University of Mount Union.
+A simple banking application project from my second programming class, Programming and Problem Solving II, at the University of Mount Union that was taught by Dr. James Klayder.
 
 Some prototype frames and code was provided by Dr. James Klayder and the project itself was created by a group consisting of Alec Barker, Jarrod Luca, and Cierra Roller. Some helper files are used that were created for Princeton University's CS department.
 
